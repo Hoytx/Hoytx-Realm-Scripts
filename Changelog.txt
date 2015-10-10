@@ -1,0 +1,37 @@
+Version 1.0
+
+*Started the project.
+*Created Hoyt's Realm Scripts.ahk file for the scripts.
+*Added README.txt and Changelog.txt to folder.
+*Added HP Cursor Script
+*Added the images and .cur files for use of the HP Cursor Script (Currently using the BMJ precision cursor)
+*Added scripts from Nightfirecat's version of realmscript (currently including chat commands).
+	*Added `(Backtick) hotkey (Types "/pause" in chat and presses enter.).
+	*Added ^w (Control+w) function (Types "/who" in chat and presses enter.), tell you who is connected to your current realm.
+	*Added ^s (Control+s) function (Types "/server" in chat and presses enter.), tells you the name of your current realm.
+	*Added ^d (Control+d) function (Types "/tell mreyeball server" and presses enter.), tells you the server you are connected to.
+	*Added ^q (Control+q) and ^e (Control+e) function (Changes the keystrokes to enter.), prevents you from closing the client or browser window.
+	*Added F1 hotkey (Types "Heal please?" in chat and presses enter.).
+	*Added F2 hotkey (Types "Thank you. :)" in chat and presses enter.).
+	*Added F3 hotkey (Types "MP please!" in chat and presses enter.).
+	*Added F4 hotkey (Types "He lives and reigns and conquers the world" in chat and presses enter.).
+	*Added F11 hotkey (Types "/tutorial" in chat and presses enter.), sends you to the tutorial.
+	*Added F12 hotkey (Types "/nexustutorial" in chat and presses enter.), sends you to the Nexus tutorial.
+*Added F9 hotkey to exit the entire script.
+
+Version 1.0.1
+
+*Added credit where credit was due.
+*Added support for realmofthemadgod.com
+
+Version 1.1
+
+*Added a beep sound when total health is under 50%(Thanks to SpaceFlow for posting this code in the old thread about the HP Cursor Script.).
+*Added function to change /tp to /teleport when typing in chat.
+*Created two versions, one for flash player 13 and one for use with realmofthemadgod.com.
+	(This is due to problems created when the health notification beep was added, and can be removed if a fix is found.)
+*Added Teleport Buddy (This allows you to set a target player and teleport to them at any time.).
+	*Added ^n (Control+n) function (Opens a diolog box where you type the name of the person you want to teleport to.).
+	*Added +RButton (Shift+Right Mouse Button) function (Types "/teleport {Name of teleport target}" , pressses enter, and teleports you to the target player.).
+Version 1.2
+*Removed HP cursor script due to changes in the game.	
